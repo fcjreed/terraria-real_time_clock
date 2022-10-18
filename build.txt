@@ -1,0 +1,7 @@
+displayName = Local Real Time
+author = Vedavox, The Green Egg
+version = 1.6
+homepage = https://github.com/fcjreed/terraria-real_time_clock
+side = Client
+
+buildIgnore = *.csproj, *.user, obj\*, bin\*, .vs\*, *.suo, *.sln, .git, *.md, .git\*
